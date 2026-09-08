@@ -1,0 +1,14 @@
+C:\Users\Administrator\Hangman\Testspel\bin\Debug\net10.0\Testspel.exe
+C:\Users\Administrator\Hangman\Testspel\bin\Debug\net10.0\Testspel.deps.json
+C:\Users\Administrator\Hangman\Testspel\bin\Debug\net10.0\Testspel.runtimeconfig.json
+C:\Users\Administrator\Hangman\Testspel\bin\Debug\net10.0\Testspel.dll
+C:\Users\Administrator\Hangman\Testspel\bin\Debug\net10.0\Testspel.pdb
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.AssemblyInfo.cs
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.dll
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\refint\Testspel.dll
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.pdb
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\Testspel.genruntimeconfig.cache
+C:\Users\Administrator\Hangman\Testspel\obj\Debug\net10.0\ref\Testspel.dll
